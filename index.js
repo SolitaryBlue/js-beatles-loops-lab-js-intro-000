@@ -20,6 +20,6 @@ return exclArray;
 }
 
 
-function iLoveTheBeatles {
+function iLoveTheBeatles(number) {
 
 }
