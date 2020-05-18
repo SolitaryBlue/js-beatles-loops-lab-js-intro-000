@@ -18,3 +18,8 @@ function johnLennonFacts(facts) {
   }
 return exclArray;
 }
+
+
+function iLoveTheBeatles {
+
+}
