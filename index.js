@@ -23,11 +23,10 @@ return exclArray;
 function iLoveTheBeatles(number) {
   let iLoveArr = [];
 
-  let i = 0;
   do {
     number++;
     iLoveArr.push("I love the Beatles!");
-  } while (i < 15);
+  } while (number < 15);
+return iLoveArr;
 
-  return iLoveArr;
 }
