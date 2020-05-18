@@ -22,14 +22,12 @@ return exclArray;
 
 function iLoveTheBeatles(number) {
   let iLoveArr = [];
-  let result = "I love the Beatles!";
+
   let i = 0;
-
   do {
+    iLoveArr.push("I love the Beatles!");
     i = number++;
-    result = i - 15;
-    iLoveArr.push(result);
   } while (i < 15);
-
-  return iLoveArr;
+  
+  return iLoveArr; 
 }
