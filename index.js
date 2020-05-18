@@ -28,6 +28,6 @@ function iLoveTheBeatles(number) {
     iLoveArr.push("I love the Beatles!");
     i = number++;
   } while (i < 15);
-  
-  return iLoveArr; 
+
+  return iLoveArr;
 }
