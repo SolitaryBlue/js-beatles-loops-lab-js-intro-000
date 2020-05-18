@@ -16,5 +16,5 @@ function johnLennonFacts(facts) {
      exclArray.push(exclaimationFacts);
     i++;
   }
-
+return exclArray;
 }
