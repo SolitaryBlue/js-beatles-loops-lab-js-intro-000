@@ -13,7 +13,7 @@ function exclamationFacts(facts) {
 
   while(i < facts.length) {
     facts[i].push("!!!");
-    i++; 
+    i++;
   }
-  return facts; 
+  return facts;
 }
