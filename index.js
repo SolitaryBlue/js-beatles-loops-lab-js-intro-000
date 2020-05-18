@@ -7,3 +7,13 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return newArray;
 };
+
+function exclamationFacts(facts) {
+  let i = 0;
+
+  while(i < facts.length) {
+    facts[i].push("!!!");
+    i++; 
+  }
+  return facts; 
+}
